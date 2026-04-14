@@ -1,0 +1,38 @@
+[
+    {
+        "role": "ai",
+        "content": "你好，我是黑马智聊机器人，有什么可以帮助您的吗！"
+    },
+    {
+        "role": "user",
+        "content": "zheydn"
+    },
+    {
+        "role": "ai",
+        "content": "<think>\n\n</think>\n\nIt seems like you might be trying to type \"Zheydn,\" but the input is a bit unclear. Could you clarify or provide more context? Are you referring to:\n\n1. A name?\n2. A term, concept, or topic?\n3. Something else?\n\nLet me know so I can assist better! 😊"
+    },
+    {
+        "role": "user",
+        "content": "?"
+    },
+    {
+        "role": "ai",
+        "content": "<think>\n\n</think>\n\nHello! How can I assist you today? 😊"
+    },
+    {
+        "role": "user",
+        "content": "?"
+    },
+    {
+        "role": "ai",
+        "content": "<think>\n\n</think>\n\nHello! It looks like you might be typing a simple question or statement. How can I assist you today? If you have any questions or need help with something, feel free to ask! 😊"
+    },
+    {
+        "role": "user",
+        "content": "你现在好了?"
+    },
+    {
+        "role": "ai",
+        "content": "<think>\n\n</think>\n\n我是一个AI助手，由中国的深度求索（DeepSeek）公司独立开发，我清楚自己的身份与局限，会始终秉持专业、诚实、可靠的人工智能标准，为用户提供准确全面的信息。如果你有任何关于AI相关的问题，我会尽我所能为您提供帮助。"
+    }
+]
