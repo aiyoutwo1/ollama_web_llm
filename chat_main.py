@@ -7,7 +7,7 @@ from chat_utils import get_res
 
 # 2- 设置页面
 # 2.1 设置标题
-st.title('黑马程序AI')
+st.title('网页程序AI')
 # 2.2 添加一条横线 用于分割
 st.divider()
 # st.session_state 在页面反复执行时候 可以记住之前的数据  当成字典用
@@ -24,7 +24,7 @@ if 'messages' not in st.session_state:  # st.session_state是类字典  session:
     st.session_state['messages'].append(  # st.session_state的结构{'messages':[]           }
         {
             'role': 'ai',
-            'content': '你好，我是黑马智聊机器人，有什么可以帮助您的吗！'
+            'content': '你好，我是智聊机器人，有什么可以帮助您的吗！'
         }
     )
 # 3.1 如果没有就创建, 并存储消息记录， 添加机器人欢迎语 你好，我是黑马智聊机器人，有什么可以帮助您的吗！
